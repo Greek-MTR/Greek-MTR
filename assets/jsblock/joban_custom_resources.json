@@ -2,7 +2,7 @@
 	"pids_images": [
 		{
 			"id": "athen_suburban",
-			"name": "Athen (Suburban)",
+			"name": "Athens (Suburban)",
 			"background": "jsblock:custom_directory/athen_suburban.png",
 			"thumbnail": "jsblock:custom_directory/athen_suburban.png",
 			"scriptFiles": ["jsblock:scripts/athen_suburban.js"],
@@ -10,3 +10,4 @@
 		}
 	]
 }
+
