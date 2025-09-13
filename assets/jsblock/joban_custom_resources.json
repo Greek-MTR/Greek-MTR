@@ -1,0 +1,12 @@
+{
+	"pids_images": [
+		{
+			"id": "athen_suburban",
+			"name": "Athen (Suburban)",
+			"background": "jsblock:custom_directory/athen_suburban.png",
+			"thumbnail": "jsblock:custom_directory/athen_suburban.png",
+			"scriptFiles": ["jsblock:scripts/athen_suburban.js"],
+			"blacklist": ["lcd_pids", "rv_pids", "rv_pids_sil_1", "rv_pids_sil_2", "pids_projector"]
+		}
+	]
+}
