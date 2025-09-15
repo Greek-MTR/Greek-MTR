@@ -1,2 +1,28 @@
 {
-  
+  "custom_signs": {
+    "exit_sign_arrow_down": {
+      "texture_id": "mtr:custom_directory/Exit Arrow down.png"
+    },
+    "exit_sign_arrow_left-down": {
+      "texture_id": "mtr:custom_directory/Exit Arrow left-down.png"
+    },
+    "exit_sign_arrow_left-up": {
+      "texture_id": "mtr:custom_directory/Exit Arrow left-up.png"
+    },
+    "exit_sign_arrow_left": {
+      "texture_id": "mtr:custom_directory/Exit Arrow left.png"
+    },
+     "exit_sign_arrow_right-down": {
+      "texture_id": "mtr:custom_directory/Exit Arrow right-down.png"
+    },
+    "exit_sign_arrow_right-up": {
+      "texture_id": "mtr:custom_directory/Exit Arrow right-up.png"
+    },
+    "exit_sign_arrow_right": {
+      "texture_id": "mtr:custom_directory/Exit Arrow right.png"
+    },
+    "exit_sign_arrow_up": {
+      "texture_id": "mtr:custom_directory/Exit Arrow up.png"
+    }
+  }
+}
