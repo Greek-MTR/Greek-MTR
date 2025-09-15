@@ -2,7 +2,7 @@
 	"pids_images": [
 		{
 			"id": "athen_suburban",
-			"name": "Athens (Suburban)",
+			"name": "Athens (Suburban Railway)",
 			"background": "jsblock:custom_directory/athen_suburban.png",
 			"thumbnail": "jsblock:custom_directory/athen_suburban.png",
 			"scriptFiles": ["jsblock:scripts/athen_suburban.js"],
@@ -10,4 +10,5 @@
 		}
 	]
 }
+
 
