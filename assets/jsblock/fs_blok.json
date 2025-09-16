@@ -1,0 +1,10 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "jsblock:fs_blok.ttf",
+            "size": 12.0,
+            "oversample": 16.0
+        }
+    ]
+}
