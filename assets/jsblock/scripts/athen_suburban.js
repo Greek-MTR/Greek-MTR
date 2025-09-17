@@ -17,7 +17,7 @@ function render(ctx, state, pids) {
       if(arrival != null) {
         Text.create("Number Text")
             .text(arrival.routeNumber())
-            .font("font:fs_blok")
+           .font("mtr:fs_blok")
             .pos(60, rowY)
             .size(24, 25)  // <----
             .scaleXY() // <----
@@ -28,7 +28,7 @@ function render(ctx, state, pids) {
 
         Text.create("Arrival destination")
             .text(TextUtil.cycleString(arrival.destination().toUpperCase()))
-            .font("font:fs_blok")
+           .font("mtr:fs_blok")
             .pos(77, rowY)
             .size(45, 25)
             .scale(1.25)
@@ -49,7 +49,7 @@ function render(ctx, state, pids) {
         let late_time = late_hours.toString().padStart(2, '0') + ":" + late_minutes.toString().padStart(2, '0');
         Text.create("Arrival ETA")
             .text(time)
-            .font("font:fs_blok")
+           .font("mtr:fs_blok")
             .color(0xcda222)
             .pos(27, rowY)
             .size(30, 25)
@@ -65,4 +65,3 @@ function render(ctx, state, pids) {
 function dispose(ctx, state, pids) {
 
 }
-
