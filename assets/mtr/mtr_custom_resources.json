@@ -1,28 +1,44 @@
 {
-  "custom_signs": {
-    "exit_sign_arrow_down": {
-      "texture_id": "mtr:custom_directory/exit_arrow_down.png"
+  "signs": [
+    {
+      "id": "exit_sign_arrow_down",
+			"textureResource": "mtr:custom_directory/exit_arrow_down.png",
+			"small": true
     },
-    "exit_sign_arrow_left-down": {
-      "texture_id": "mtr:custom_directory/exit_arrow_left-down.png"
+    {
+      "id": "exit_sign_arrow_left-down",
+			"textureResource": "mtr:custom_directory/exit_arrow_left-down.png",
+			"small": true
     },
-    "exit_sign_arrow_left-up": {
-      "texture_id": "mtr:custom_directory/exit_arrow_left-up.png"
+    {
+      "id": "exit_sign_arrow_left-up",
+			"textureResource": "mtr:custom_directory/exit_arrow_left-up.png",
+			"small": true
     },
-    "exit_sign_arrow_left": {
-      "texture_id": "mtr:custom_directory/exit_arrow_left.png"
+    {
+      "id": "exit_sign_arrow_left",
+			"textureResource": "mtr:custom_directory/exit_arrow_left.png",
+			"small": true
     },
-     "exit_sign_arrow_right-down": {
-      "texture_id": "mtr:custom_directory/exit_arrow_right-down.png"
+    {
+      "id": "exit_sign_arrow_right-down",
+			"textureResource": "mtr:custom_directory/exit_arrow_right-down.png",
+			"small": true
     },
-    "exit_sign_arrow_right-up": {
-      "texture_id": "mtr:custom_directory/exit_arrow_right-up.png"
+    {
+      "id": "exit_sign_arrow_right-up",
+			"textureResource": "mtr:custom_directory/exit_arrow_right-up.png",
+			"small": true
     },
-    "exit_sign_arrow_right": {
-      "texture_id": "mtr:custom_directory/exit_arrow_right.png"
+    {
+      "id": "exit_sign_arrow_right",
+			"textureResource": "mtr:custom_directory/exit_arrow_right.png",
+			"small": true
     },
-    "exit_sign_arrow_up": {
-      "texture_id": "mtr:custom_directory/exit_arrow_up.png"
+    {
+      "id": "exit_sign_arrow_up",
+			"textureResource": "mtr:custom_directory/exit_arrow_up.png",
+			"small": true
     }
-  }
+  ]
 }
