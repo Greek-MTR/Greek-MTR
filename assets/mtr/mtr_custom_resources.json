@@ -167,7 +167,7 @@
          "legacyConstantPlaybackSpeed":false,
          "legacyDoorSoundBaseResource":"",
          "legacyDoorCloseSoundTime":0.0
-      }
+      },
 	  {
          "id":"2nd-generation-front",
          "name":"Athens Metro 2nd Generation Forwards",
