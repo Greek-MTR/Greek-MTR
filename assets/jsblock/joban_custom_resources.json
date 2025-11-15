@@ -8,6 +8,16 @@
 			"fonts": "jsblock:fs_blok.ttf",
 			"scriptFiles": ["jsblock:scripts/athen_suburban.js"],
 			"blacklist": ["lcd_pids", "rv_pids", "rv_pids_sil_1", "rv_pids_sil_2", "pids_projector"]
+		},
+
+		{
+			"id": "thessaloniki_metro",
+			"name": "Thessaloniki (Metro)",
+			"background": "jsblock:custom_directory/thessaloniki_metro.png",
+			"thumbnail": "jsblock:custom_directory/thessaloniki_metro.png",
+			"fonts": "jsblock:fs_blok.ttf",
+			"scriptFiles": ["jsblock:scripts/thessaloniki_metro.js"],
+			"blacklist": ["pids_1a"]
 		}
 	]
 }
