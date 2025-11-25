@@ -1,10 +1,10 @@
-\# Greek MTR
+# Greek MTR
 
 This is a resource pack that adds features from Greek Railways to Minecraft using the Minecraft Transit Railway mod.
 
-\## Features
+## Features
 
-\### Trains
+### Trains
 
 
 
@@ -14,9 +14,9 @@ This is a resource pack that adds features from Greek Railways to Minecraft usin
 
 
 
-\- Athens Metro 1st Generation by AndSTAClassic
+- Athens Metro 1st Generation by AndSTAClassic
 
-\- Athens Metro 2nd Generation by AndSTAClassic
+- Athens Metro 2nd Generation by AndSTAClassic
 
 </details>
 
@@ -24,7 +24,7 @@ This is a resource pack that adds features from Greek Railways to Minecraft usin
 
 
 
-\### PIDS
+### PIDS
 
 
 
@@ -32,15 +32,15 @@ This is a resource pack that adds features from Greek Railways to Minecraft usin
 
 <summary>PIDS</summary>
 
-&nbsp; 
 
-\- Athens Suburban Railway PIDS by TeamPommes
+
+- Athens Suburban Railway PIDS by TeamPommes
 
 </details>
 
 
 
-\### Signs
+### Signs
 
 <details>
 
@@ -48,7 +48,7 @@ This is a resource pack that adds features from Greek Railways to Minecraft usin
 
 
 
-\- Exit arrows
+- Exit arrows
 
 
 
@@ -60,11 +60,11 @@ This is a resource pack that adds features from Greek Railways to Minecraft usin
 
 
 
-\## Dependencies
+## Dependencies
 
-\- \[Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway) (Version 4.0.0 and above)
+- [Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway) (Version 4.0.0 and above)
 
-\- \[Joban Client Mod](https://modrinth.com/mod/jcm) (Version 2.0.0 and above)
+- [Joban Client Mod](https://modrinth.com/mod/jcm) (Version 2.0.0 and above)
 
 
 
