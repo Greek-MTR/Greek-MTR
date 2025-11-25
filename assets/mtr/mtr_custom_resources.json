@@ -426,5 +426,46 @@
       "id": "exit_sign_arrow_up",
 			"textureResource": "mtr:custom_directory/exit_arrow_up.png",
     }
+  ],
+  "objects": [
+    {
+      "id": "thessaloniki_metro_entrance_sign_red_blue",
+      "name": "Thessaloniki Metro Entrance Sign (Lines 1&2)",
+      "color": "B0B0BE",
+      "modelResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign.obj",
+      "textureResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign_lines1-2.png",
+      "flipTextureV": true,
+      "scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": "thessaloniki_metro_entrance_sign_red",
+      "name": "Thessaloniki Metro Entrance Sign (Line 1)",
+      "color": "B0B0BE",
+      "modelResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign.obj",
+      "textureResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign_line1.png",
+      "flipTextureV": true,
+      "scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": "thessaloniki_metro_entrance_sign_blue",
+      "name": "Thessaloniki Metro Entrance Sign (Line 2)",
+      "color": "B0B0BE",
+      "modelResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign.obj",
+      "textureResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign_line2.png",
+      "flipTextureV": true,
+      "scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
   ]
 }
