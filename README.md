@@ -68,5 +68,5 @@ This is a resource pack that adds features from Greek Railways to Minecraft usin
 
 
 
-Discord invite: https://discord.gg/f5QrjcTAMc
+[Join our Discord!](https://discord.gg/f5QrjcTAMc)
 
