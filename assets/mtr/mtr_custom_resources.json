@@ -432,7 +432,7 @@
       "id": "thessaloniki_metro_entrance_sign_red_blue",
       "name": "Thessaloniki Metro Entrance Sign (Lines 1&2)",
       "color": "B0B0BE",
-      "modelResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign.obj",
+      "modelResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign_lines1-2.obj",
       "textureResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign_lines1-2.png",
       "flipTextureV": true,
       "scale": {
@@ -445,7 +445,7 @@
       "id": "thessaloniki_metro_entrance_sign_red",
       "name": "Thessaloniki Metro Entrance Sign (Line 1)",
       "color": "B0B0BE",
-      "modelResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign.obj",
+      "modelResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign.obj_line1",
       "textureResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign_line1.png",
       "flipTextureV": true,
       "scale": {
@@ -458,7 +458,7 @@
       "id": "thessaloniki_metro_entrance_sign_blue",
       "name": "Thessaloniki Metro Entrance Sign (Line 2)",
       "color": "B0B0BE",
-      "modelResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign.obj",
+      "modelResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign_line2.obj",
       "textureResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign_line2.png",
       "flipTextureV": true,
       "scale": {
