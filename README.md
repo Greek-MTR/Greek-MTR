@@ -54,9 +54,13 @@ This is a resource pack that adds features from Greek Railways to Minecraft usin
 
 </details>
 
-
-
-
+# FAQ
+- Q: There is a bug in the pack. How can I point it out to you?
+  
+  A: Join our Discord Server and/or create an issue in GitHub
+- Q: I can't figure out how the pack works and I need support
+  
+  A: Join our Discord Server to get personalised support through a ticket
 
 
 
