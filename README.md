@@ -18,6 +18,7 @@ This is a resource pack that adds features from Greek Railways to Minecraft usin
 <summary>PIDS</summary>
 
 - Athens Suburban Railway PIDS by TeamPommes
+- Thessaloniki Metro Pids by TeamPommes
 </details>
 
 ### Signs
