@@ -49,3 +49,9 @@ This is a resource pack that adds features from Greek Railways to Minecraft usin
 ## Dependencies
 - [Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway) (Version 4.0.0 and above)
 - [Joban Client Mod](https://modrinth.com/mod/jcm) (Version 2.0.0 and above)
+
+
+
+
+
+# **[Join our Discord!](https://discord.gg/f5QrjcTAMc)**
