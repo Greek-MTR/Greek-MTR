@@ -613,7 +613,7 @@
       "id": "thessaloniki_metro_entrance_sign_red",
       "name": "Thessaloniki Metro Entrance Sign (Line 1)",
       "color": "B0B0BE",
-      "modelResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign.obj_line1",
+      "modelResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign_line1.obj",
       "textureResource": "mtrsteamloco:eyecandies/greek_mtr/thessaloniki_metro_entrance_sign/thessaloniki_metro_entrance_sign_line1.png",
       "flipTextureV": true,
       "scale": {
