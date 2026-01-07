@@ -1,0 +1,114 @@
+{
+	   "etr470_g_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/airhigh",
+                "attenuation_distance": 85
+            }
+        ]
+    },
+    "etr470_g_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/airzero",
+                "attenuation_distance": 85
+            }
+        ]
+    },
+    "etr470_g_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/door_close",
+                "attenuation_distance": 20,
+                "pitch": 1
+            }
+        ]
+    },
+    "etr470_g_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/door_open",
+                "attenuation_distance": 20,
+				"pitch": 1
+            }
+        ]
+    },
+    "etr470_g_loop": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/loop",
+                "attenuation_distance": 85
+            }
+        ]
+    },
+    "etr470_g_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/motor2",
+                "attenuation_distance": 85
+            }
+        ]
+    },
+    "etr470_g_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/motor3",
+                "attenuation_distance": 85
+            }
+        ]
+    },
+    "etr470_g_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/motor1",
+                "attenuation_distance": 85
+            }
+        ]
+    },    "etr470_g_motor4": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/motor4",
+                "attenuation_distance": 85
+            }
+        ]
+    },    "etr470_g_motor5": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/motor5",
+                "attenuation_distance": 85
+            }
+        ]
+    },
+    "etr470_g_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/motor0",
+                "attenuation_distance": 85
+            }
+        ]
+    },
+    "etr470_g_point": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/point",
+                "attenuation_distance": 85
+            }
+        ]
+    },    
+	"etr470_g_rub": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/rub",
+                "attenuation_distance": 85
+            }
+        ]
+    },
+    "etr470_g_run": {
+        "sounds": [
+            {
+                "name": "mtr:etr470_g\/run",
+                "attenuation_distance": 85
+            }
+        ]
+    }
+}

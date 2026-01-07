@@ -559,6 +559,722 @@
         "legacyConstantPlaybackSpeed":false,
         "legacyDoorSoundBaseResource":"",
         "legacyDoorCloseSoundTime":0.0
+      },
+      {
+        "id": "etr470_car1_g_class1",
+        "name": "ETR 470 HT Cab (F) (1st class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.3,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "1st class cab, forwards.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_af30f42c.json",
+            "positionDefinitionsResource": "mtr:definition_d21715b6.json",
+            "flipTextureV": false
+          },
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_obj_g.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_g_obj.png",
+            "modelPropertiesResource": "mtr:properties_d420e4cc.json",
+            "positionDefinitionsResource": "mtr:definition_c5c0d402.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_888fd5a5.json",
+            "positionDefinitionsResource": "mtr:definition_307a3edf.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_60b4fdd8.json",
+            "positionDefinitionsResource": "mtr:definition_1394e59c.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": false,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car2_g_1",
+        "name": "ETR 470 HT Car (1st class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "1st class car.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_f32f3bef.json",
+            "positionDefinitionsResource": "mtr:definition_db336b28.json",
+            "flipTextureV": false
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_d1b4481.json",
+            "positionDefinitionsResource": "mtr:definition_e17ef99a.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_45d5db0.json",
+            "positionDefinitionsResource": "mtr:definition_cefa8fb4.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car2_g",
+        "name": "ETR 470 HT Car (2nd class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "2nd class car.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_75486d91.json",
+            "positionDefinitionsResource": "mtr:definition_9ff9ee83.json",
+            "flipTextureV": false
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_1593fd5c.json",
+            "positionDefinitionsResource": "mtr:definition_6c270c6e.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_1ca8736c.json",
+            "positionDefinitionsResource": "mtr:definition_bc535814.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car2_g_1_ac",
+        "name": "ETR 470 HT Car (AC) (1st class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "1st class car with roof AC unit.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_86ee4d4f.json",
+            "positionDefinitionsResource": "mtr:definition_89910e26.json",
+            "flipTextureV": false
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_be5fccc9.json",
+            "positionDefinitionsResource": "mtr:definition_6a39cfb.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_da8c8025.json",
+            "positionDefinitionsResource": "mtr:definition_3e836869.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car2_g_ac",
+        "name": "ETR 470 HT Car (AC) (2nd class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "2nd class car with roof AC unit.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_944e1d45.json",
+            "positionDefinitionsResource": "mtr:definition_99f8d757.json",
+            "flipTextureV": false
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_c0805e47.json",
+            "positionDefinitionsResource": "mtr:definition_cbc2ef7.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_a39a3865.json",
+            "positionDefinitionsResource": "mtr:definition_26558185.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car2_g_panto_5_1st",
+        "name": "ETR 470 HT Panto Car (F) (P5) (1st class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "1st class car with pantograph raised to 5 blocks, forwards.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_72ab667a.json",
+            "positionDefinitionsResource": "mtr:definition_d794d4a1.json",
+            "flipTextureV": false
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_8fd10934.json",
+            "positionDefinitionsResource": "mtr:definition_cfba661d.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_1af63b7.json",
+            "positionDefinitionsResource": "mtr:definition_9f220050.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car2_g_panto_6_1st",
+        "name": "ETR 470 HT Panto Car (F) (P6) (1st class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "1st class car with pantograph raised to 6 blocks, forwards.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_dabad00b.json",
+            "positionDefinitionsResource": "mtr:definition_e7e3f40a.json",
+            "flipTextureV": false
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_bd21992d.json",
+            "positionDefinitionsResource": "mtr:definition_4aa90c10.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_1b48a9f.json",
+            "positionDefinitionsResource": "mtr:definition_3c7b0f7b.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car2_g_panto_x_1st",
+        "name": "ETR 470 HT Panto Car (F) (PX) (1st class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "1st class car with pantograph down, forwards.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_d993e886.json",
+            "positionDefinitionsResource": "mtr:definition_9e088f1a.json",
+            "flipTextureV": false
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_922b6627.json",
+            "positionDefinitionsResource": "mtr:definition_466819e.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_761a9de9.json",
+            "positionDefinitionsResource": "mtr:definition_7c18b34c.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car2_g_diner",
+        "name": "ETR 470 HT Restaurant Car",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "Diner car.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_c89e54c0.json",
+            "positionDefinitionsResource": "mtr:definition_b6f338f9.json",
+            "flipTextureV": false
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_23cf303e.json",
+            "positionDefinitionsResource": "mtr:definition_c83378b2.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_bea2d715.json",
+            "positionDefinitionsResource": "mtr:definition_f8188ec8.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car2_g_panto_5",
+        "name": "ETR 470 HT Panto Car (B) (P5) (2nd class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "2nd class car with pantograph raised to 5 blocks, backwards.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_869ac0b2.json",
+            "positionDefinitionsResource": "mtr:definition_a32a3f85.json",
+            "flipTextureV": false
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_26b916fd.json",
+            "positionDefinitionsResource": "mtr:definition_8f06acc3.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_e14607a5.json",
+            "positionDefinitionsResource": "mtr:definition_cc0a3ed4.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car2_g_panto_6",
+        "name": "ETR 470 HT Panto Car (B) (P6) (2nd class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "2nd class car with pantograph raised to 6 blocks, backwards.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_ce18eaaf.json",
+            "positionDefinitionsResource": "mtr:definition_ae9f4a37.json",
+            "flipTextureV": false
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_744fe2ce.json",
+            "positionDefinitionsResource": "mtr:definition_70dda94d.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_556b5827.json",
+            "positionDefinitionsResource": "mtr:definition_138bad55.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car2_g_panto_x",
+        "name": "ETR 470 HT Panto Car (B) (PX) (2nd class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.87,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "2nd class car with pantograph lowered, backwards.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_57d6fc82.json",
+            "positionDefinitionsResource": "mtr:definition_4ba14735.json",
+            "flipTextureV": false
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_8c945f84.json",
+            "positionDefinitionsResource": "mtr:definition_50101ce.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_8ef05386.json",
+            "positionDefinitionsResource": "mtr:definition_274d0e77.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": true,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
+      },
+      {
+        "id": "etr470_car1_g_class2",
+        "name": "ETR 470 HT Cab (B) (2nd class)",
+        "color": "F61F2F",
+        "transportMode": "TRAIN",
+        "length": 27.5,
+        "width": 2.0,
+        "bogie1Position": -9.87,
+        "bogie2Position": 9.3,
+        "couplingPadding1": 0.0,
+        "couplingPadding2": 0.0,
+        "description": "2nd class cab, backwards.\n\nThe ETR 470 \"Pendolino\" entered service in 1993 as a tilting train designed specifically for challenging trans-Alpine routes between Italy and Switzerland. Manufactured by Fiat Ferroviaria, these nine-car trainsets were equipped with an active tilting system, allowing speeds up to 200 km/h even on winding mountain tracks and reducing journey times while maintaining passenger comfort. Operated primarily by Cisalpino (a joint venture between Swiss and Italian railways), the ETR 470 offered premium interiors with both first and second class accommodations.",
+        "wikipediaArticle": "",
+        "tags": [],
+        "models": [
+          {
+            "modelResource": "mtr:etr470.bbmodel",
+            "textureResource": "mtr:etr470_g.png",
+            "modelPropertiesResource": "mtr:properties_24b7ab65.json",
+            "positionDefinitionsResource": "mtr:definition_a2435f9c.json",
+            "flipTextureV": false
+          },
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_obj_g.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_g_obj.png",
+            "modelPropertiesResource": "mtr:properties_37730840.json",
+            "positionDefinitionsResource": "mtr:definition_4b9cac16.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie1Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_2e7c0672.json",
+            "positionDefinitionsResource": "mtr:definition_ac6a0882.json",
+            "flipTextureV": true
+          }
+        ],
+        "bogie2Models": [
+          {
+            "modelResource": "mtr:etr470_obj_g/etr470_bogie_obj.obj",
+            "textureResource": "mtr:etr470_obj_g/etr470_bogie.png",
+            "modelPropertiesResource": "mtr:properties_9abf5a97.json",
+            "positionDefinitionsResource": "mtr:definition_30ba89c7.json",
+            "flipTextureV": true
+          }
+        ],
+        "hasGangway1": true,
+        "hasGangway2": false,
+        "hasBarrier1": false,
+        "hasBarrier2": false,
+        "legacyRiderOffset": 0.0,
+        "bveSoundBaseResource": "etr470_g",
+        "legacySpeedSoundBaseResource": "",
+        "legacySpeedSoundCount": 1,
+        "legacyUseAccelerationSoundsWhenCoasting": false,
+        "legacyConstantPlaybackSpeed": false,
+        "legacyDoorSoundBaseResource": "",
+        "legacyDoorCloseSoundTime": 0.0
       }
   ],
   "signs": [
