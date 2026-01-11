@@ -6,7 +6,7 @@ This is a resource pack that adds features from Greek Railways to Minecraft usin
 <details>
 <summary>Trains</summary>
 
-- ETR 470 by NAMCO
+- ETR 470 (HT) by NAMCO - CIS and SBB liveries [here](https://modrinth.com/resourcepack/mtr-etr-470)
 - Athens Metro 1st Generation by AndSTAClassic
 - Athens Metro 2nd Generation by AndSTAClassic
 - Athens Metro 3rd Generation by AndSTAClassic
