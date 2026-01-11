@@ -188,8 +188,8 @@
             {
                "modelResource":"mtr:2nd-generation1.bbmodel",
                "textureResource":"mtr:2nd-generation-texture1.png",
-               "modelPropertiesResource":"mtr:properties_c99d4902.json",
-               "positionDefinitionsResource":"mtr:definition_b35141f6.json",
+               "modelPropertiesResource":"mtr:properties_ea3ef1a7.json",
+               "positionDefinitionsResource":"mtr:definition_735edaf6.json",
                "flipTextureV":true
             }
          ],
@@ -197,8 +197,8 @@
             {
                "modelResource":"mtr:bogie-2nd.bbmodel",
                "textureResource":"mtr:bogie-texture2.png",
-               "modelPropertiesResource":"mtr:properties_18fe8b11.json",
-               "positionDefinitionsResource":"mtr:definition_7579e12b.json",
+               "modelPropertiesResource":"mtr:properties_bdd81870.json",
+               "positionDefinitionsResource":"mtr:definition_af0ba163.json",
                "flipTextureV":true
             }
          ],
@@ -206,8 +206,8 @@
             {
                "modelResource":"mtr:bogie-2nd.bbmodel",
                "textureResource":"mtr:bogie-texture2.png",
-               "modelPropertiesResource":"mtr:properties_f72a8582.json",
-               "positionDefinitionsResource":"mtr:definition_4815be99.json",
+               "modelPropertiesResource":"mtr:properties_961ccf9f.json",
+               "positionDefinitionsResource":"mtr:definition_945c67aa.json",
                "flipTextureV":true
             }
          ],
@@ -244,8 +244,8 @@
             {
                "modelResource":"mtr:2nd-generation1.bbmodel",
                "textureResource":"mtr:2nd-generation-texture1.png",
-               "modelPropertiesResource":"mtr:properties_7866564.json",
-               "positionDefinitionsResource":"mtr:definition_f2784cca.json",
+               "modelPropertiesResource":"mtr:properties_c01b4b5.json",
+               "positionDefinitionsResource":"mtr:definition_9927e513.json",
                "flipTextureV":true
             }
          ],
@@ -253,8 +253,8 @@
             {
                "modelResource":"mtr:bogie-2nd.bbmodel",
                "textureResource":"mtr:bogie-texture2.png",
-               "modelPropertiesResource":"mtr:properties_a7eb2127.json",
-               "positionDefinitionsResource":"mtr:definition_e9aefa64.json",
+               "modelPropertiesResource":"mtr:properties_2fa0505b.json",
+               "positionDefinitionsResource":"mtr:definition_552f611f.json",
                "flipTextureV":true
             }
          ],
@@ -262,8 +262,8 @@
             {
                "modelResource":"mtr:bogie-2nd.bbmodel",
                "textureResource":"mtr:bogie-texture2.png",
-               "modelPropertiesResource":"mtr:properties_e7ae7842.json",
-               "positionDefinitionsResource":"mtr:definition_64a1794b.json",
+               "modelPropertiesResource":"mtr:properties_fd3e7e7.json",
+               "positionDefinitionsResource":"mtr:definition_c1a6f8b7.json",
                "flipTextureV":true
             }
          ],
@@ -300,8 +300,8 @@
             {
                "modelResource":"mtr:2nd-generation1.bbmodel",
                "textureResource":"mtr:2nd-generation-texture1.png",
-               "modelPropertiesResource":"mtr:properties_a4d61530.json",
-               "positionDefinitionsResource":"mtr:definition_75fb12b5.json",
+               "modelPropertiesResource":"mtr:properties_f9bd499e.json",
+               "positionDefinitionsResource":"mtr:definition_26fecc81.json",
                "flipTextureV":true
             }
          ],
@@ -309,8 +309,8 @@
             {
                "modelResource":"mtr:bogie-2nd.bbmodel",
                "textureResource":"mtr:bogie-texture2.png",
-               "modelPropertiesResource":"mtr:properties_b9dcac8a.json",
-               "positionDefinitionsResource":"mtr:definition_d9394dea.json",
+               "modelPropertiesResource":"mtr:properties_66225435.json",
+               "positionDefinitionsResource":"mtr:definition_c1cbb3e5.json",
                "flipTextureV":true
             }
          ],
@@ -318,8 +318,8 @@
             {
                "modelResource":"mtr:bogie-2nd.bbmodel",
                "textureResource":"mtr:bogie-texture2.png",
-               "modelPropertiesResource":"mtr:properties_5e81c3e1.json",
-               "positionDefinitionsResource":"mtr:definition_77912ad8.json",
+               "modelPropertiesResource":"mtr:properties_7a97ccc6.json",
+               "positionDefinitionsResource":"mtr:definition_c56b3264.json",
                "flipTextureV":true
             }
          ],
@@ -337,8 +337,8 @@
          "legacyDoorCloseSoundTime":0.0
       },
       {
-         "id":"2nd-generation-middle-pantograph",
-         "name":"Athens Metro 2nd Generation Trailer (With Pantograph)",
+         "id":"2nd-generation-middle-pantograph5",
+         "name":"Athens Metro 2nd Generation Trailer (With 5-Block-High Pantograph)",
          "color":"C4C4C4",
          "transportMode":"TRAIN",
          "length":20.0,
@@ -356,8 +356,8 @@
             {
                "modelResource":"mtr:2nd-generation1.bbmodel",
                "textureResource":"mtr:2nd-generation-texture1.png",
-               "modelPropertiesResource":"mtr:properties_7a11d562.json",
-               "positionDefinitionsResource":"mtr:definition_e21e37fd.json",
+               "modelPropertiesResource":"mtr:properties_bd24383f.json",
+               "positionDefinitionsResource":"mtr:definition_3cdf026a.json",
                "flipTextureV":true
             }
          ],
@@ -365,8 +365,8 @@
             {
                "modelResource":"mtr:bogie-2nd.bbmodel",
                "textureResource":"mtr:bogie-texture2.png",
-               "modelPropertiesResource":"mtr:properties_8bb5640b.json",
-               "positionDefinitionsResource":"mtr:definition_22f8c7ce.json",
+               "modelPropertiesResource":"mtr:properties_8073c1a4.json",
+               "positionDefinitionsResource":"mtr:definition_85f589b7.json",
                "flipTextureV":true
             }
          ],
@@ -374,8 +374,8 @@
             {
                "modelResource":"mtr:bogie-2nd.bbmodel",
                "textureResource":"mtr:bogie-texture2.png",
-               "modelPropertiesResource":"mtr:properties_17d260f7.json",
-               "positionDefinitionsResource":"mtr:definition_5a4eef53.json",
+               "modelPropertiesResource":"mtr:properties_1a5c1e58.json",
+               "positionDefinitionsResource":"mtr:definition_b799bd8e.json",
                "flipTextureV":true
             }
          ],
@@ -393,9 +393,65 @@
          "legacyDoorCloseSoundTime":0.0
       },
       {
+        "id":"2st-generation-middle-pantograph7",
+        "name":"Athens Metro 2nd Generation Trailer (With 7-Block-High Pantograph)",
+        "color":"C4C4C4",
+        "transportMode":"TRAIN",
+        "length":20.0,
+        "width":2.0,
+        "bogie1Position":-8.0,
+        "bogie2Position":8.0,
+        "couplingPadding1":0.0,
+        "couplingPadding2":0.0,
+        "description":"This is the pantograph version of the second generation of the Athens Metro, currently in use in line 3, for trains terminating at the Airport.",
+        "wikipediaArticle":"https://en.wikipedia.org/wiki/Athens_Metro_rolling_stock#Lines_2_and_3",
+        "tags":[
+
+        ],
+        "models":[
+          {
+            "modelResource":"mtr:2nd-generation.bbmodel",
+            "textureResource":"mtr:2nd-generation-texture1.png",
+            "modelPropertiesResource":"mtr:properties_3d762376.json",
+            "positionDefinitionsResource":"mtr:definition_9cb867d1.json",
+            "flipTextureV":true
+          }
+        ],
+        "bogie1Models":[
+          {
+            "modelResource":"mtr:bogie-2nd.bbmodel",
+            "textureResource":"mtr:bogie-texture2.png",
+            "modelPropertiesResource":"mtr:properties_115ac626.json",
+            "positionDefinitionsResource":"mtr:definition_13bb849e.json",
+            "flipTextureV":true
+          }
+        ],
+        "bogie2Models":[
+          {
+            "modelResource":"mtr:bogie-2nd.bbmodel",
+            "textureResource":"mtr:bogie-texture2.png",
+            "modelPropertiesResource":"mtr:properties_16d4c66d.json",
+            "positionDefinitionsResource":"mtr:definition_3b4f92b1.json",
+            "flipTextureV":true
+          }
+        ],
+        "hasGangway1":true,
+        "hasGangway2":true,
+        "hasBarrier1":false,
+        "hasBarrier2":false,
+        "legacyRiderOffset":0.0,
+        "bveSoundBaseResource":"a_train",
+        "legacySpeedSoundBaseResource":"",
+        "legacySpeedSoundCount":1,
+        "legacyUseAccelerationSoundsWhenCoasting":false,
+        "legacyConstantPlaybackSpeed":false,
+        "legacyDoorSoundBaseResource":"",
+        "legacyDoorCloseSoundTime":0.0
+      },
+      {
         "id":"3st-generation-front",
         "name":"Athens Metro 3rd Generation Forwards",
-        "color":"FFFFFF",
+        "color":"00FF00",
         "transportMode":"TRAIN",
         "length":20.0,
         "width":2.0,
@@ -410,28 +466,28 @@
         ],
         "models":[
           {
-            "modelResource":"mtr:3nd-generation1.bbmodel",
+            "modelResource":"mtr:3nd-generation.bbmodel",
             "textureResource":"mtr:3nd-generation-texture1.png",
-            "modelPropertiesResource":"mtr:properties_e09cafe6.json",
-            "positionDefinitionsResource":"mtr:definition_2a080e90.json",
+            "modelPropertiesResource":"mtr:properties_340ea4cb.json",
+            "positionDefinitionsResource":"mtr:definition_bf942207.json",
             "flipTextureV":true
           }
         ],
         "bogie1Models":[
           {
-            "modelResource":"mtr:bogie-2nd.bbmodel",
-            "textureResource":"mtr:bogie-texture2.png",
-            "modelPropertiesResource":"mtr:properties_99310381.json",
-            "positionDefinitionsResource":"mtr:definition_1dc5ca6.json",
+            "modelResource":"mtr:bogie-3nd.bbmodel",
+            "textureResource":"mtr:bogie-texture3.png",
+            "modelPropertiesResource":"mtr:properties_7adedfcb.json",
+            "positionDefinitionsResource":"mtr:definition_90a954dc.json",
             "flipTextureV":true
           }
         ],
         "bogie2Models":[
           {
-            "modelResource":"mtr:bogie-2nd.bbmodel",
-            "textureResource":"mtr:bogie-texture2.png",
-            "modelPropertiesResource":"mtr:properties_3d378be5.json",
-            "positionDefinitionsResource":"mtr:definition_5dc8bbcf.json",
+            "modelResource":"mtr:bogie-3nd.bbmodel",
+            "textureResource":"mtr:bogie-texture3.png",
+            "modelPropertiesResource":"mtr:properties_4a6aad69.json",
+            "positionDefinitionsResource":"mtr:definition_10fd5564.json",
             "flipTextureV":true
           }
         ],
@@ -451,7 +507,7 @@
       {
         "id":"3st-generation-back",
         "name":"Athens Metro 3rd Generation Backwards",
-        "color":"FFFFFF",
+        "color":"00FF00",
         "transportMode":"TRAIN",
         "length":20.0,
         "width":2.0,
@@ -466,28 +522,28 @@
         ],
         "models":[
           {
-            "modelResource":"mtr:3nd-generation1.bbmodel",
+            "modelResource":"mtr:3nd-generation.bbmodel",
             "textureResource":"mtr:3nd-generation-texture1.png",
-            "modelPropertiesResource":"mtr:properties_a504eb46.json",
-            "positionDefinitionsResource":"mtr:definition_9dc9a80.json",
+            "modelPropertiesResource":"mtr:properties_1860db96.json",
+            "positionDefinitionsResource":"mtr:definition_883c48a3.json",
             "flipTextureV":true
           }
         ],
         "bogie1Models":[
           {
-            "modelResource":"mtr:bogie-2nd.bbmodel",
-            "textureResource":"mtr:bogie-texture2.png",
-            "modelPropertiesResource":"mtr:properties_33303837.json",
-            "positionDefinitionsResource":"mtr:definition_6b0ed316.json",
+            "modelResource":"mtr:bogie-3nd.bbmodel",
+            "textureResource":"mtr:bogie-texture3.png",
+            "modelPropertiesResource":"mtr:properties_deb282bd.json",
+            "positionDefinitionsResource":"mtr:definition_a113d088.json",
             "flipTextureV":true
           }
         ],
         "bogie2Models":[
           {
-            "modelResource":"mtr:bogie-2nd.bbmodel",
-            "textureResource":"mtr:bogie-texture2.png",
-            "modelPropertiesResource":"mtr:properties_1de9ceaa.json",
-            "positionDefinitionsResource":"mtr:definition_5d3d058c.json",
+            "modelResource":"mtr:bogie-3nd.bbmodel",
+            "textureResource":"mtr:bogie-texture3.png",
+            "modelPropertiesResource":"mtr:properties_a5a7288c.json",
+            "positionDefinitionsResource":"mtr:definition_a4ce4fc3.json",
             "flipTextureV":true
           }
         ],
@@ -507,7 +563,7 @@
       {
         "id":"3st-generation-middle",
         "name":"Athens Metro 3rd Generation Trailer",
-        "color":"FFFFFF",
+        "color":"00FF00",
         "transportMode":"TRAIN",
         "length":20.0,
         "width":2.0,
@@ -522,28 +578,28 @@
         ],
         "models":[
           {
-            "modelResource":"mtr:3nd-generation1.bbmodel",
+            "modelResource":"mtr:3nd-generation.bbmodel",
             "textureResource":"mtr:3nd-generation-texture1.png",
-            "modelPropertiesResource":"mtr:properties_efb4c5ff.json",
-            "positionDefinitionsResource":"mtr:definition_72f879be.json",
+            "modelPropertiesResource":"mtr:properties_78194025.json",
+            "positionDefinitionsResource":"mtr:definition_74c24787.json",
             "flipTextureV":true
           }
         ],
         "bogie1Models":[
           {
-            "modelResource":"mtr:bogie-2nd.bbmodel",
-            "textureResource":"mtr:bogie-texture2.png",
-            "modelPropertiesResource":"mtr:properties_d14ba453.json",
-            "positionDefinitionsResource":"mtr:definition_1a46fb87.json",
+            "modelResource":"mtr:bogie-3nd.bbmodel",
+            "textureResource":"mtr:bogie-texture3.png",
+            "modelPropertiesResource":"mtr:properties_a7ae0fdc.json",
+            "positionDefinitionsResource":"mtr:definition_da65c41d.json",
             "flipTextureV":true
           }
         ],
         "bogie2Models":[
           {
-            "modelResource":"mtr:bogie-2nd.bbmodel",
-            "textureResource":"mtr:bogie-texture2.png",
-            "modelPropertiesResource":"mtr:properties_8d0810d6.json",
-            "positionDefinitionsResource":"mtr:definition_ae9db63d.json",
+            "modelResource":"mtr:bogie-3nd.bbmodel",
+            "textureResource":"mtr:bogie-texture3.png",
+            "modelPropertiesResource":"mtr:properties_8c570d75.json",
+            "positionDefinitionsResource":"mtr:definition_de6f0450.json",
             "flipTextureV":true
           }
         ],

@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="266084b4-4559-42b1-a9cb-39cd88bb3374" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/mtr/2nd-generation-texture1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mtr/2nd-generation.bbmodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mtr/2nd-generation1.bbmodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mtr/3nd-generation-texture1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mtr/bogi1i2.bbmodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mtr/bogie-2nd.bbmodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mtr/bogie-2nd1.bbmodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mtr/bogie-texture2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mtr/bogiepng.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mtr/3nd-generation.bbmodel" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mtr/3nd-generation.bbmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mtr/bogie-3nd.bbmodel" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mtr/bogie-3nd.bbmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mtr/bogie-texture3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mtr/bogie-texture3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/mtr/mtr_custom_resources.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mtr/mtr_custom_resources.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mtr/w2e20000000.bbmodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mtr/w2ed2.bbmodel" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mtr/w2ed2.bbmodel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +74,7 @@
       <updated>1764603914372</updated>
       <workItem from="1764603916463" duration="8867000" />
       <workItem from="1767808312428" duration="2008000" />
-      <workItem from="1768136084689" duration="2269000" />
+      <workItem from="1768136084689" duration="3800000" />
     </task>
     <servers />
   </component>
