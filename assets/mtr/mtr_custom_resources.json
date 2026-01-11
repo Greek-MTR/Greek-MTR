@@ -8,7 +8,7 @@
          "length":21.0,
          "width":2.0,
          "bogie1Position":-8.5,
-         "bogie2Position":8.5,
+         "bogie2Position":8.0,
          "couplingPadding1":0.0,
          "couplingPadding2":0.0,
          "description":"This is the first generation of the Athens Metro, currently in use in lines 1,2 and 3.",
@@ -18,28 +18,28 @@
          ],
          "models":[
             {
-               "modelResource":"mtr:2222212.bbmodel",
+               "modelResource":"mtr:1.bbmodel",
                "textureResource":"mtr:1st-generation_texture11.png",
-               "modelPropertiesResource":"mtr:properties_6de1faed.json",
-               "positionDefinitionsResource":"mtr:definition_86b27ebc.json",
+               "modelPropertiesResource":"mtr:properties_daadd674.json",
+               "positionDefinitionsResource":"mtr:definition_c2bdb0ad.json",
                "flipTextureV":true
             }
          ],
          "bogie1Models":[
             {
-               "modelResource":"mtr:2222212.bbmodel",
+               "modelResource":"mtr:1.bbmodel",
                "textureResource":"mtr:1st-generation_texture11.png",
-               "modelPropertiesResource":"mtr:properties_a14a814.json",
-               "positionDefinitionsResource":"mtr:definition_77b637f4.json",
+               "modelPropertiesResource":"mtr:properties_53406d8b.json",
+               "positionDefinitionsResource":"mtr:definition_66ee31d4.json",
                "flipTextureV":true
             }
          ],
          "bogie2Models":[
             {
-               "modelResource":"mtr:2222212.bbmodel",
+               "modelResource":"mtr:1.bbmodel",
                "textureResource":"mtr:1st-generation_texture11.png",
-               "modelPropertiesResource":"mtr:properties_4e2b13b8.json",
-               "positionDefinitionsResource":"mtr:definition_c4fe73f1.json",
+               "modelPropertiesResource":"mtr:properties_5168fc39.json",
+               "positionDefinitionsResource":"mtr:definition_df73d7c8.json",
                "flipTextureV":true
             }
          ],
@@ -63,7 +63,7 @@
          "transportMode":"TRAIN",
          "length":21.0,
          "width":2.0,
-         "bogie1Position":-8.5,
+         "bogie1Position":-7.0,
          "bogie2Position":8.5,
          "couplingPadding1":0.0,
          "couplingPadding2":0.0,
@@ -74,28 +74,28 @@
          ],
          "models":[
             {
-               "modelResource":"mtr:2222212.bbmodel",
+               "modelResource":"mtr:1.bbmodel",
                "textureResource":"mtr:1st-generation_texture11.png",
-               "modelPropertiesResource":"mtr:properties_80fcaabe.json",
-               "positionDefinitionsResource":"mtr:definition_ee307409.json",
+               "modelPropertiesResource":"mtr:properties_1a8afe48.json",
+               "positionDefinitionsResource":"mtr:definition_78e78cf.json",
                "flipTextureV":true
             }
          ],
          "bogie1Models":[
             {
-               "modelResource":"mtr:2222212.bbmodel",
+               "modelResource":"mtr:1.bbmodel",
                "textureResource":"mtr:1st-generation_texture11.png",
-               "modelPropertiesResource":"mtr:properties_2dc8db3e.json",
-               "positionDefinitionsResource":"mtr:definition_35873d47.json",
+               "modelPropertiesResource":"mtr:properties_ef203d9.json",
+               "positionDefinitionsResource":"mtr:definition_a80245a1.json",
                "flipTextureV":true
             }
          ],
          "bogie2Models":[
             {
-               "modelResource":"mtr:2222212.bbmodel",
+               "modelResource":"mtr:1.bbmodel",
                "textureResource":"mtr:1st-generation_texture11.png",
-               "modelPropertiesResource":"mtr:properties_886cb3e6.json",
-               "positionDefinitionsResource":"mtr:definition_e444ac63.json",
+               "modelPropertiesResource":"mtr:properties_6d5eca11.json",
+               "positionDefinitionsResource":"mtr:definition_a06585f1.json",
                "flipTextureV":true
             }
          ],
@@ -119,8 +119,8 @@
          "transportMode":"TRAIN",
          "length":21.0,
          "width":2.0,
-         "bogie1Position":-8.5,
-         "bogie2Position":8.5,
+         "bogie1Position":-7.0,
+         "bogie2Position":8.4,
          "couplingPadding1":0.0,
          "couplingPadding2":0.0,
          "description":"This is the first generation of the Athens Metro, currently in use in lines 1,2 and 3.",
@@ -130,28 +130,28 @@
          ],
          "models":[
             {
-               "modelResource":"mtr:2222212.bbmodel",
+               "modelResource":"mtr:1.bbmodel",
                "textureResource":"mtr:1st-generation_texture11.png",
-               "modelPropertiesResource":"mtr:properties_e050a6a6.json",
-               "positionDefinitionsResource":"mtr:definition_2ceb1757.json",
+               "modelPropertiesResource":"mtr:properties_80415e0b.json",
+               "positionDefinitionsResource":"mtr:definition_9bb88661.json",
                "flipTextureV":true
             }
          ],
          "bogie1Models":[
             {
-               "modelResource":"mtr:2222212.bbmodel",
+               "modelResource":"mtr:1.bbmodel",
                "textureResource":"mtr:1st-generation_texture11.png",
-               "modelPropertiesResource":"mtr:properties_de906201.json",
-               "positionDefinitionsResource":"mtr:definition_989f7837.json",
+               "modelPropertiesResource":"mtr:properties_7ee5fd7.json",
+               "positionDefinitionsResource":"mtr:definition_85718aaf.json",
                "flipTextureV":true
             }
          ],
          "bogie2Models":[
             {
-               "modelResource":"mtr:2222212.bbmodel",
+               "modelResource":"mtr:1.bbmodel",
                "textureResource":"mtr:1st-generation_texture11.png",
-               "modelPropertiesResource":"mtr:properties_dc27dbcb.json",
-               "positionDefinitionsResource":"mtr:definition_4b3edccc.json",
+               "modelPropertiesResource":"mtr:properties_86883190.json",
+               "positionDefinitionsResource":"mtr:definition_ed4d8408.json",
                "flipTextureV":true
             }
          ],
