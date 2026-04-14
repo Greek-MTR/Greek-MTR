@@ -1369,6 +1369,42 @@
     {
       "id": "exit_sign_blank",
       "textureResource": "mtr:signs/exit_blank.png"
+    },
+    {
+      "id": "red_sign_arrow_down",
+      "textureResource": "mtr:signs/red_arrow_down.png"
+    },
+    {
+      "id": "red_sign_arrow_left-down",
+      "textureResource": "mtr:signs/red_arrow_left-down.png"
+    },
+    {
+      "id": "red_sign_arrow_left-up",
+      "textureResource": "mtr:signs/red_arrow_left-up.png"
+    },
+    {
+      "id": "red_sign_arrow_left",
+      "textureResource": "mtr:signs/red_arrow_left.png"
+    },
+    {
+      "id": "red_sign_arrow_right-down",
+      "textureResource": "mtr:signs/red_arrow_right-down.png"
+    },
+    {
+      "id": "red_sign_arrow_right-up",
+      "textureResource": "mtr:signs/red_arrow_right-up.png"
+    },
+    {
+      "id": "red_sign_arrow_right",
+      "textureResource": "mtr:signs/red_arrow_right.png"
+    },
+    {
+      "id": "red_sign_arrow_up",
+      "textureResource": "mtr:signs/red_arrow_up.png"
+    },
+    {
+      "id": "red_sign_blank",
+      "textureResource": "mtr:signs/red_blank.png"
     }
   ],
   "objects": [
