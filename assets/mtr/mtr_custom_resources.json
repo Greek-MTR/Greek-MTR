@@ -1405,6 +1405,10 @@
     {
       "id": "red_sign_blank",
       "textureResource": "mtr:signs/red_blank.png"
+    },
+    {
+      "id": "red_sign_elevator_down",
+      "textureResource": "mtr:signs/red_elevator_down.png"
     }
   ],
   "objects": [
