@@ -1371,6 +1371,10 @@
       "textureResource": "mtr:signs/exit_blank.png"
     },
     {
+      "id": "exit_sign_elevator_up",
+      "textureResource": "mtr:signs/exit_elevator_up.png"
+    },
+    {
       "id": "red_sign_arrow_down",
       "textureResource": "mtr:signs/red_arrow_down.png"
     },
