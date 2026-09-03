@@ -18,7 +18,7 @@ This is a resource pack that adds features from Greek Railways to Minecraft usin
 <details>
 <summary>PIDS</summary>
 
-- Athens Suburban Railway PIDS by TeamPommes. Font: FS Blok by Vojto Ruman
+- Athens Suburban Railway PIDS by TeamPommes. Font: [FS Blok](https://www.dafont.com/fs-blok.font) by Vojto Ruman, [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/)
 - Thessaloniki Metro Pids by TeamPommes
 </details>
 
