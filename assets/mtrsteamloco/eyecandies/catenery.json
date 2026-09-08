@@ -1,0 +1,65 @@
+{		
+	"key21": {
+		"name": "Athen Catenary 5m",
+		"model": "mtrsteamloco:eyecandies/athen-catenary-5m.obj",
+		"textureId": "mtrsteamloco:textures/eyecandies/athen-catenary.png",
+        "flipV": true,
+        "translation": [ 0, 0, 0 ],
+        "rotation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ],
+        "mirror": [ false, false, false ]
+},
+
+"key22": {
+		"name": "Athen Catenary 5m 1",
+		"model": "mtrsteamloco:eyecandies/athen-catenary-5m-1.obj",
+		"textureId": "mtrsteamloco:textures/eyecandies/athen-catenary.png",
+        "flipV": true,
+        "translation": [ 0, 0, 0 ],
+        "rotation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ],
+        "mirror": [ false, false, false ]
+},
+"key23": {
+		"name": "Athen Catenary 5m Double",
+		"model": "mtrsteamloco:eyecandies/athen-catenary-5m-double.obj",
+		"textureId": "mtrsteamloco:textures/eyecandies/athen-catenary.png",
+        "flipV": true,
+        "translation": [ 0, 0, 0 ],
+        "rotation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ],
+        "mirror": [ false, false, false ]
+},
+    "key24": {
+        "name": "Athen Catenary 7m",
+        "model": "mtrsteamloco:eyecandies/athen-catenary-7m.obj",
+        "textureId": "mtrsteamloco:textures/eyecandies/athen-catenary.png",
+        "flipV": true,
+        "translation": [ 0, 0, 0 ],
+        "rotation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ],
+        "mirror": [ false, false, false ]
+},
+    "key25": {
+        "name": "Athen Catenary 7m 1",
+        "model": "mtrsteamloco:eyecandies/athen-catenary-7m-1.obj",
+        "textureId": "mtrsteamloco:textures/eyecandies/athen-catenary.png",
+        "flipV": true,
+        "translation": [ 0, 0, 0 ],
+        "rotation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ],
+        "mirror": [ false, false, false ]
+
+    },
+    "key26": {
+        "name": "Athen Catenary 7m Double",
+        "model": "mtrsteamloco:eyecandies/athen-catenary-7m-double.obj",
+        "textureId": "mtrsteamloco:textures/eyecandies/athen-catenary.png",
+        "flipV": true,
+        "translation": [ 0, 0, 0 ],
+        "rotation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ],
+        "mirror": [ false, false, false ]
+    
+    }
+}

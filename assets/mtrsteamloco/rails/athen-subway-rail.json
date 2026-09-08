@@ -1,0 +1,86 @@
+{
+    "athen-metro-rail-1": {
+        "name": "Athen Metro Rail1",
+        "model": "mtrsteamloco:rails/athen-metro-rail-1.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+	},
+    "athen-metro-rail-2": {
+        "name": "Athen Metro Rail2",
+        "model": "mtrsteamloco:rails/athen-metro-rail-2.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+        	},
+    "athen-metro-rail-3": {
+        "name": "Athen Metro Rail3",
+        "model": "mtrsteamloco:rails/athen-metro-rail-3.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+
+        	},
+    "athen-metro-rail-4": {
+        "name": "Athen Metro Rail4",
+        "model": "mtrsteamloco:rails/athen-metro-rail-4.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+
+            	},
+    "athen-metro-rail-5": {
+        "name": "Athen Metro Rail5",
+        "model": "mtrsteamloco:rails/athen-metro-rail-5.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+
+            	},
+    "athen-metro-rail-6": {
+        "name": "Athen Metro Rail6",
+        "model": "mtrsteamloco:rails/athen-metro-rail-6.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+
+            	},
+    "athen-metro-rail-7": {
+        "name": "Athen Metro Rail7",
+        "model": "mtrsteamloco:rails/athen-metro-rail-7.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+   	},
+
+    
+    "athen-metro-rail-tunnel-1": {
+        "name": "Athen Metro Rail Tunnel 1",
+        "model": "mtrsteamloco:rails/athen-metro-rail-tunnel-1.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+
+    },
+    "athen-metro-rail-tunnel-2": {
+        "name": "Athen Metro Rail Tunnel 2",
+        "model": "mtrsteamloco:rails/athen-metro-rail-tunnel-2.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+
+    },
+    "athen-metro-rail-tunnel-3": {
+        "name": "Athen Metro Rail Tunnel 3",
+        "model": "mtrsteamloco:rails/athen-metro-rail-tunnel-3.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+
+     },
+    "athen-rail-1": {
+        "name": "Athen Rail 1",
+        "model": "mtrsteamloco:rails/athen-rail-1.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+    
+        
+     },
+    "athen-rail-2": {
+        "name": "Athen Rail 2",
+        "model": "mtrsteamloco:rails/athen-rail-2.obj",
+        "repeatInterval": 1.0,
+        "flipV": true
+
+    }
+}
