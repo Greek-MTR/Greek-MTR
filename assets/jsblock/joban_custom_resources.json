@@ -18,6 +18,15 @@
 			"fonts": "jsblock:fs_blok.ttf",
 			"scriptFiles": ["jsblock:scripts/thessaloniki_metro.js"],
 			"blacklist": ["pids_1a"]
+		},
+
+		{
+			"id": "athen_tram",
+			"name": "Athen (Tram)",
+			"background": "jsblock:assets/athen_tram.png",
+			"thumbnail": "jsblock:assets/athen_tram.png",
+			"scriptFiles": ["jsblock:scripts/athen_tram.js"],
+			"blacklist": ["lcd_pids", "rv_pids", "rv_pids_sil_1", "rv_pids_sil_2", "pids_projector"]
 		}
 	]
 }
